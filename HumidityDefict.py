@@ -1,4 +1,4 @@
-# coding:utf-8 Copy Right Atelier Grenouille © 2015 -
+# coding:utf-8 Copy Right Atelier UEDA © 2015 -
 #
 
 # 
